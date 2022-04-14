@@ -1,0 +1,2 @@
+Hello world, I am Nicolas.
+This is the second file I am modifying.
